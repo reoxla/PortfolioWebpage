@@ -1,0 +1,12 @@
+#topBar{
+    margin: 0;
+    box-sizing: border-box;
+    width: 100%;
+    height: 10%;
+    text-align: left;
+    background-color: #142229;
+}
+
+a li{
+    float: left;
+}
